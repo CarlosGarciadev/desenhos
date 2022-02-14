@@ -1,5 +1,5 @@
 # Desenhos
-### Desenhos Realizados com lápis grafite graduado,H, HB, 2B, 3B, 4B, 5B, 6B, 7B, 8B.
+### Desenhos Realizados com lápis grafite graduado H, HB, 2B, 3B, 4B, 5B, 6B, 7B, 8B.
 ### Lapiseira 0.3 - Gráfite HB
 ### Lapiseira 0.5 - Gráfite 4B
 ### Lapiseira 0.7 - Gráfite HB
