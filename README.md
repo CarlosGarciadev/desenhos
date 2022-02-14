@@ -1,4 +1,9 @@
 # Desenhos
+###Desenhos Realizados com lápis gáfrite graduado,H, HB, 2B, 3B, 4B, 5B, 6B, 7B, 8B.
+###Lapiseira 0.3 - Gráfite HB
+###Lapiseira 0.5 - Gráfite 4B
+###Lapiseira 0.7 - Gráfite HB
+###Papel Canson A3 Gramatura 220mg.
 
 ![IMG_20210112_230657](https://user-images.githubusercontent.com/95919813/153791891-8290363d-1819-4b88-99f1-4c16f2854519.jpg)
 
