@@ -3,6 +3,7 @@
 #### Lapiseira 0.3 - Gráfite HB
 #### Lapiseira 0.5 - Gráfite 4B
 #### Lapiseira 0.7 - Gráfite HB
+#### Borracha 2.5mm
 #### Papel Canson A3 Gramatura 220mg.
 
 <div align="center">
